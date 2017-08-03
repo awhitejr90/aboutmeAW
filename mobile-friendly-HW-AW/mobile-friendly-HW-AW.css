@@ -1,0 +1,48 @@
+body {
+	background-color: orange;
+}
+
+.image1 {
+	float: left;
+	width: 400px;
+	height: 400px;
+	background-image: url("art-collection.jpg");
+	margin: 5px;
+}
+
+.image2 {
+	float: left;
+	width: 400px;
+	height: 250px;
+	background-image: url("art-collection2.jpg");
+	margin: 5px;
+}
+
+.image3 {
+	float: left;
+	width: 400px;
+	height: 250px;
+	background-image: url("MusicSupervision.jpg");
+	margin: 5px;
+}
+
+.image4 {
+	float: left;
+	width: 400px;
+	height: 400px;
+	background-image: url("MusicSupervision2.jpg");
+	margin: 5px;
+}
+
+.image6 {
+	float: left;
+	width: 350px;
+	height: 262px;
+	background-image: url("Coding.jpeg");
+	margin: 5px;
+}
+
+
+h1 {
+	color: #20B2AA;
+}
